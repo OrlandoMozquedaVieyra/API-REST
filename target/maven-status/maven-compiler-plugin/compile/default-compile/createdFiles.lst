@@ -1,0 +1,4 @@
+com\mycompany\servicio\ApiRest.class
+com\mycompany\UsuarioDAO\UsuarioDAO.class
+com\mycompany\servicio\UsuarioApiRest.class
+com\mycompany\Modelo\Usuario.class
